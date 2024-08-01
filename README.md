@@ -2,6 +2,13 @@
 <h3 align="center">A passionate AI/ML developer.</h3>
 
 - 🌱 I’m currently learning **Machine Learning.**
+- 
+I'm a Computer science with Artificial intelligence and Machine learning undergraduate student at Manipal institute of technology.
+I'm passionate about ethical Machine learning solutions for public policy and positive impact and the areas of discipline of NLP, Computer vision and Generative AI. 
+
+Other interests include debate, philosophy, linguistics, literature and their overlap with technology, and the ethics of technology
+
+I'm also an avid reader, artist and can speak 5 languages and I'm interested in combining my various interests across interdisciplinary fields to solve novel problems in the tech-sphere.
 
 - 📫 How to reach me **jcblore22@gmail.com**
 
