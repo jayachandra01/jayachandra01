@@ -8,6 +8,7 @@ I'm passionate about ethical Machine learning solutions for public policy and po
 Other interests include debate, philosophy, linguistics, literature and their overlap with technology, and the ethics of technology
 
 I'm also an avid reader, artist and can speak 5 languages and I'm interested in combining my various interests across interdisciplinary fields to solve novel problems in the tech-sphere.
+![image](https://github.com/user-attachments/assets/616c55d4-3423-416b-98d7-e5aa81714147)
 
 - 📫 How to reach me **jcblore22@gmail.com**
 
